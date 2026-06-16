@@ -3,8 +3,8 @@
   "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9/SeisQC_Setup.exe",
   "notes": "SeisQC v0.9",
   "patch": {
-    "base": "0.8.7",
+    "base": "0.9",
     "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9/update_0.9.zip",
-    "size": 34570933
+    "size": 34577099
   }
 }
