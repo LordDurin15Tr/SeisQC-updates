@@ -1,10 +1,10 @@
 {
-  "version": "0.9.7.1",
-  "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9.7.1/SeisQC_Setup.exe",
-  "notes": "SeisQC v0.9.7.1",
+  "version": "0.9.7.2",
+  "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9.7.2/SeisQC_Setup.exe",
+  "notes": "SeisQC v0.9.7.2",
   "patch": {
-    "base": "0.9.7",
-    "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9.7.1/update_0.9.7.1.zip",
-    "size": 34613492
+    "base": "0.9.7.1",
+    "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v0.9.7.2/update_0.9.7.2.zip",
+    "size": 34611166
   }
 }
