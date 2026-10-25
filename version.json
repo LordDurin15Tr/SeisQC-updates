@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1.6",
-  "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v1.0.1.6/SeisQC_Setup.exe",
-  "notes": "SeisQC v1.0.1.6",
-  "sha256": "af020c74e50f446f6463d0f68d3febc6f2c4e932ac1378d5bb92aac9d4bc6f19",
+  "version": "1.0.1.7",
+  "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v1.0.1.7/SeisQC_Setup.exe",
+  "notes": "SeisQC v1.0.1.7",
+  "sha256": "d8412361beb7a964b65b5fe3d7f5edd18a18f255b44955fdee3ca3c7b7ca6f0e",
   "patch": {
-    "base": "1.0.1.5",
-    "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v1.0.1.6/update_1.0.1.6.zip",
-    "size": 44932038
+    "base": "1.0.1.6",
+    "url": "https://github.com/LordDurin15Tr/SeisQC-updates/releases/download/v1.0.1.7/update_1.0.1.7.zip",
+    "size": 45867781
   }
 }
